@@ -1,0 +1,7 @@
+---
+title: "About"
+description: |
+  I'm a researcher at UO. This blog is for me to share some of my thoughts.
+---
+
+![](https://images.pexels.com/photos/1901033/pexels-photo-1901033.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)

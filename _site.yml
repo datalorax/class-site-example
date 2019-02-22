@@ -1,0 +1,12 @@
+name: "class-site-example"
+title: "Blog for class"
+description: |
+  This is an example blog produced for the purposes of sharing some really amazing data visualization work produced in class.
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: radix::radix_article

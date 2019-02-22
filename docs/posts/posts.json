@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to a Blog for class",
+    "description": "Welcome to our new blog, Blog for class. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://www.datalorax.com"
+      }
+    ],
+    "date": "2019-02-22",
+    "categories": [],
+    "preview": "posts/welcome/welcome_files/figure-html5/plot-1.png",
+    "last_modified": "2019-02-22T15:39:20-08:00"
+  },
+  {
+    "path": "posts/2019-02-22-my-work-on-lab-3/",
+    "title": "My work on Lab 3",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://www.datalorax.com"
+      }
+    ],
+    "date": "2019-02-22",
+    "categories": [],
+    "preview": "posts/2019-02-22-my-work-on-lab-3/my-work-on-lab-3_files/figure-html5/setup-1.png",
+    "last_modified": "2019-02-22T15:42:44-08:00"
+  }
+]

@@ -1,0 +1,31 @@
+---
+title: "Welcome to a Blog for class"
+description: |
+  Welcome to our new blog, Blog for class. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Daniel Anderson
+    url: https://www.datalorax.com
+    affiliation: University of Oregon
+    affiliation_url: https://www.uoregon.edu
+date: 02-22-2019
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here's a boring plot
+
+```{r plot, message = FALSE}
+library(tidyverse)
+ggplot(mpg, aes(displ, hwy)) +
+  geom_point(color = "gray70") +
+  geom_smooth() +
+  theme_minimal()
+```
+
+
